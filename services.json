@@ -7,12 +7,14 @@
       "https://l.opnxng.com",
       "https://libreddit.lunar.icu",
       "https://libreddit.northboot.xyz",
+      "https://libreddit.oxymagnesium.com",
       "https://libreddit.privacydev.net",
       "https://libreddit.projectsegfau.lt",
       "https://libreddit.strongthany.cc",
       "https://lr.artemislena.eu",
       "https://reddit.invak.id",
-      "https://reddit.simo.sh"
+      "https://reddit.simo.sh",
+      "https://reddit.utsav2.dev"
     ]
   },
   {
@@ -114,7 +116,6 @@
     "fallback": "https://nitter.net",
     "instances": [
       "https://n.biendeo.com",
-      "https://n.opnxng.com",
       "https://n.populas.no",
       "https://nitter.1d4.us",
       "https://nitter.adminforge.de",
@@ -124,7 +125,9 @@
       "https://nitter.eu.projectsegfau.lt",
       "https://nitter.in.projectsegfau.lt",
       "https://nitter.io.lol",
+      "https://nitter.ktachibana.party",
       "https://nitter.net",
+      "https://nitter.no-logs.com",
       "https://nitter.nohost.network",
       "https://nitter.oksocial.net",
       "https://nitter.poast.org",
@@ -270,7 +273,6 @@
       "https://search.demoniak.ch",
       "https://search.gcomm.ch",
       "https://search.im-in.space",
-      "https://search.in.projectsegfau.lt",
       "https://search.itstechtime.com",
       "https://search.laksith.dev",
       "https://search.leptons.xyz",
@@ -292,7 +294,6 @@
       "https://searx.namejeff.xyz",
       "https://searx.ox2.fr",
       "https://searx.perennialte.ch",
-      "https://searx.si",
       "https://searx.tiekoetter.com",
       "https://searx.tuxcloud.net",
       "https://searx.zhenyapav.com",
@@ -358,6 +359,7 @@
     "fallback": "https://librex.myroware.eu",
     "instances": [
       "https://librex.baczek.me",
+      "https://librey.myroware.net",
       "https://search.zeroish.xyz"
     ]
   },
