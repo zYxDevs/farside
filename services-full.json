@@ -15,7 +15,8 @@
       "https://lr.artemislena.eu",
       "https://reddit.invak.id",
       "https://reddit.simo.sh",
-      "https://reddit.utsav2.dev"
+      "https://reddit.utsav2.dev",
+      "https://safereddit.com"
     ]
   },
   {
@@ -69,13 +70,10 @@
     "test_url": "/watch?v=eBGIQ7ZuuiU",
     "fallback": "https://invidious.snopyta.org",
     "instances": [
-      "https://anontube.lvkaszus.pl",
-      "https://inv.in.projectsegfau.lt",
       "https://inv.n8pjl.ca",
       "https://inv.tux.pizza",
       "https://inv.us.projectsegfau.lt",
       "https://inv.zzls.xyz",
-      "https://invidious.12a.app",
       "https://invidious.drgns.space",
       "https://invidious.einfachzocken.eu",
       "https://invidious.fdn.fr",
@@ -91,10 +89,10 @@
       "https://iv.ggtyler.dev",
       "https://iv.melmac.space",
       "https://iv.nboeck.de",
-      "https://onion.tube",
       "https://vid.priv.au",
       "https://vid.puffyan.us",
       "https://yewtu.be",
+      "https://youtube.owacon.moe",
       "https://yt.artemislena.eu",
       "https://yt.cdaut.de",
       "https://yt.drgnz.club"
@@ -133,12 +131,14 @@
     "instances": [
       "https://n.biendeo.com",
       "https://n.opnxng.com",
+      "https://n.populas.no",
       "https://nitter.1d4.us",
       "https://nitter.adminforge.de",
       "https://nitter.catsarch.com",
       "https://nitter.cz",
       "https://nitter.d420.de",
       "https://nitter.esmailelbob.xyz",
+      "https://nitter.eu.projectsegfau.lt",
       "https://nitter.freedit.eu",
       "https://nitter.in.projectsegfau.lt",
       "https://nitter.io.lol",
@@ -151,6 +151,7 @@
       "https://nitter.perennialte.ch",
       "https://nitter.poast.org",
       "https://nitter.privacydev.net",
+      "https://nitter.projectsegfau.lt",
       "https://nitter.rawbit.ninja",
       "https://nitter.salastil.com",
       "https://nitter.soopy.moe",
